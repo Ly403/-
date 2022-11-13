@@ -1,0 +1,4 @@
+﻿  Application.cpp
+D:\代码\OpenGL\cube\cube\Application.cpp(114,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\代码\OpenGL\cube\cube\Application.cpp(115,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  cube.vcxproj -> D:\代码\OpenGL\cube\Debug\cube.exe
